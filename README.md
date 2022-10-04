@@ -85,13 +85,27 @@
 
 #### Получили качество подрезанных чтений, теперь выводим по ним общую статистику
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/s%D1%81reen_trimed/first_screen_trimed.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/s%D1%81reen_trimed/second_screen_trimed.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/s%D1%81reen_trimed/third_screen_trimed.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/s%D1%81reen_trimed/fourth_screen_trimed.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/s%D1%81reen_trimed/fifth_screen_trimed.png)
 
 
+#### Вводим screen
 
+> screen
+
+#### Собираем континги из подрезанных чтений с помощью platanus assemble
+
+> time platanus assemble -o Poil -f sub1.fastq.trimmed sub2.fastq.trimmed 2> assemble.log
+
+#### Cобираем скаффолды из контигов, а также из подрезанных чтений с помощью platanus scaffold
+
+> time platanus scaffold -o Poil -c Poil_contig.fa -IP1 sub1.fastq.trimmed sub2.fastq.trimmed -OP2 matep1.fastq.int_trimmed matep2.fastq.int_trimmed 2> scaffold.log
+
+#### Уменьшаем количество гэпов
+
+> time platanus gap_close -o Poil -c Poil_scaffold.fa -IP1 sub1.fastq.trimmed sub2.fastq.trimmed -OP2 matep1.fastq.int_trimmed matep2.fastq.int_trimmed 2> gapclose.log
 
 
