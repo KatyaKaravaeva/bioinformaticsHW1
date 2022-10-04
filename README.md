@@ -39,3 +39,6 @@
 > mkdir multiqc
 >
 > multiqc -o multiqc fastqc
+
+#### Выводим теперь общий отчет по исходным данным чтения
+
