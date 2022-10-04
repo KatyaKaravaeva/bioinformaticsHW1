@@ -22,6 +22,20 @@
 
 ###### 1.5 млн чтений типа mate-pairs
 
-> seqtk sample -s720 oilMP_S4_L001_R1_001.fastq 1500000 > matepairs.fastq
+> seqtk sample -s720 oilMP_S4_L001_R1_001.fastq 1500000 > matep1.fastq
 > 
-> seqtk sample -s720 oilMP_S4_L001_R2_001.fastq 1500000 > matepairs2.fastq
+> seqtk sample -s720 oilMP_S4_L001_R2_001.fastq 1500000 > matep1.fastq
+
+
+#### Оцениваем качество чтений с помощью fastQC
+
+> mkdir fastqc
+>
+> ls sub* matep* | xargs -tI{} fastqc -o fastqc {}
+
+
+#### Оцениваем качество чтений с помощью MultiQC
+
+> mkdir multiqc
+>
+> multiqc -o multiqc fastqc
