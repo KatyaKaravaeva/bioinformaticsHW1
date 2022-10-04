@@ -43,3 +43,9 @@
 
 #### Выводим теперь общий отчет по исходным данным чтения
 
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screens_general/first_screen_general.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screens_general/second_screen_general.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screens_general/third_screen_general.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screens_general/fourth_screen_general.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screens_general/fifth_screen_general.png)
+
