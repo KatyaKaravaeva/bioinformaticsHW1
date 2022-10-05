@@ -122,4 +122,9 @@
 
 #### Проделываем такие же действие как и ранее, но из меньшего кол-ва чтений (взяла в два раза меньше)
 
-
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/first_command.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/second_command.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/third_command.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/fourth_command.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/fifth_command.png)
+![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/six_command.png)
