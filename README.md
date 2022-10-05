@@ -129,3 +129,22 @@
 ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/fifth_command.png)
 ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/six_command.png)
 ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/seven_command.png)
+
+#### Анализ бонусной части и сравнение
+
+> старое
+> ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screen_colab/contigs.png)
+> новое
+> ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/analys1.png)
+
+
+> старое
+> ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screen_colab/scaffolds.png)
+> > новое
+> ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/analys2.png)
+
+
+> старое
+> ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screen_colab/gap_closed.png)
+> > новое
+> ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/analys3.png)
