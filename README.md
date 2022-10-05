@@ -26,7 +26,7 @@
 
 > seqtk sample -s720 oilMP_S4_L001_R1_001.fastq 1500000 > matep1.fastq
 > 
-> seqtk sample -s720 oilMP_S4_L001_R2_001.fastq 1500000 > matepairs2.fastq
+> seqtk sample -s720 oilMP_S4_L001_R2_001.fastq 1500000 > matep2.fastq
 
 
 #### Создаем папки для хранения результата, оцениваем качество чтений с помощью fastQC
