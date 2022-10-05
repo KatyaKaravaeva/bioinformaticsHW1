@@ -92,7 +92,7 @@
 ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/s%D1%81reen_trimed/fifth_screen_trimed.png)
 
 
---> [Ссылка на коллаб](https://colab.research.google.com/drive/13QF3UYbh-p8FHNNSt4ytWuB9cKC18fim?usp=sharing)
+--> [Ссылка на коллаб](https://colab.research.google.com/drive/1XN57WApEhRWTBbDVSDELpeRlf4WfJSs-?usp=sharing)
 
 #### Вводим screen
 
