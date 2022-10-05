@@ -140,11 +140,13 @@
 
 > старое
 > ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screen_colab/scaffolds.png)
+> 
 > новое
 > ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/analys2.png)
 
 
 > старое
 > ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/screen_colab/gap_closed.png)
+> 
 > новое
 > ![image](https://github.com/KatyaKaravaeva/hse22_hw1/blob/main/bonus/analys3.png)
